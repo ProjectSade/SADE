@@ -1,0 +1,16 @@
+C:\Users\RICARDO\source\repos\Interfaz\Interfaz\Interfaz\bin\Debug\netstandard2.0\Interfaz.deps.json
+C:\Users\RICARDO\source\repos\Interfaz\Interfaz\Interfaz\bin\Debug\netstandard2.0\Interfaz.dll
+C:\Users\RICARDO\source\repos\Interfaz\Interfaz\Interfaz\bin\Debug\netstandard2.0\ref\Interfaz.dll
+C:\Users\RICARDO\source\repos\Interfaz\Interfaz\Interfaz\bin\Debug\netstandard2.0\Interfaz.pdb
+C:\Users\RICARDO\source\repos\Interfaz\Interfaz\Interfaz\obj\Debug\netstandard2.0\Interfaz.csprojAssemblyReference.cache
+C:\Users\RICARDO\source\repos\Interfaz\Interfaz\Interfaz\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\RICARDO\source\repos\Interfaz\Interfaz\Interfaz\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\RICARDO\source\repos\Interfaz\Interfaz\Interfaz\obj\Debug\netstandard2.0\Interfaz.AssemblyInfoInputs.cache
+C:\Users\RICARDO\source\repos\Interfaz\Interfaz\Interfaz\obj\Debug\netstandard2.0\Interfaz.AssemblyInfo.cs
+C:\Users\RICARDO\source\repos\Interfaz\Interfaz\Interfaz\obj\Debug\netstandard2.0\Interfaz.dll
+C:\Users\RICARDO\source\repos\Interfaz\Interfaz\Interfaz\obj\Debug\netstandard2.0\ref\Interfaz.dll
+C:\Users\RICARDO\source\repos\Interfaz\Interfaz\Interfaz\obj\Debug\netstandard2.0\Interfaz.pdb
+C:\Users\RICARDO\source\repos\Interfaz\Interfaz\Interfaz\obj\Debug\netstandard2.0\Final.xaml.g.cs
+C:\Users\RICARDO\source\repos\Interfaz\Interfaz\Interfaz\obj\Debug\netstandard2.0\Progreso.xaml.g.cs
+C:\Users\RICARDO\source\repos\Interfaz\Interfaz\Interfaz\obj\Debug\netstandard2.0\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO\source\repos\Interfaz\Interfaz\Interfaz\obj\Debug\netstandard2.0\XamlC.stamp
